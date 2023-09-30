@@ -1,0 +1,153 @@
+[
+    {
+      "id": "1234-0",
+      "data": {
+        "label": "Business Development Executive"
+      },
+      "position": {
+        "x": 1080.0,
+        "y": 0
+      }
+    },
+    {
+      "id": "1234-1",
+      "data": {
+        "label": "Market Research"
+      },
+      "position": {
+        "x": 900.0,
+        "y": 100
+      }
+    },
+    {
+      "id": "1234-2",
+      "data": {
+        "label": "Industry Analysis"
+      },
+      "position": {
+        "x": 1170.0,
+        "y": 100
+      }
+    },
+    {
+      "id": "1234-3",
+      "data": {
+        "label": "Competitor Analysis"
+      },
+      "position": {
+        "x": 810.0,
+        "y": 200
+      }
+    },
+    {
+      "id": "1234-4",
+      "data": {
+        "label": "Sales Strategy"
+      },
+      "position": {
+        "x": 990.0,
+        "y": 200
+      }
+    },
+    {
+      "id": "1234-5",
+      "data": {
+        "label": "Client Relationship"
+      },
+      "position": {
+        "x": 1170.0,
+        "y": 200
+      }
+    },
+    {
+      "id": "1234-6",
+      "data": {
+        "label": "Negotiation Skills"
+      },
+      "position": {
+        "x": 720.0,
+        "y": 300
+      }
+    },
+    {
+      "id": "1234-7",
+      "data": {
+        "label": "Presentation Skills"
+      },
+      "position": {
+        "x": 900.0,
+        "y": 300
+      }
+    },
+    {
+      "id": "1234-8",
+      "data": {
+        "label": "Networking"
+      },
+      "position": {
+        "x": 1080.0,
+        "y": 300
+      }
+    },
+    {
+      "id": "1234-9",
+      "data": {
+        "label": "Closing Deals"
+      },
+      "position": {
+        "x": 1260.0,
+        "y": 300
+      }
+    },
+    {
+      "id": "1234-10",
+      "data": {
+        "label": "Digital Marketing"
+      },
+      "position": {
+        "x": 990.0,
+        "y": 400
+      }
+    },
+    {
+      "id": "1234-11",
+      "data": {
+        "label": "Social Media Marketing"
+      },
+      "position": {
+        "x": 1170.0,
+        "y": 400
+      }
+    },
+    {
+      "id": "1234-12",
+      "data": {
+        "label": "Lead Generation"
+      },
+      "position": {
+        "x": 810.0,
+        "y": 500
+      }
+    },
+    {
+      "id": "1234-13",
+      "data": {
+        "label": "Sales Analytics"
+      },
+      "position": {
+        "x": 990.0,
+        "y": 500
+      }
+    },
+    {
+      "id": "1234-14",
+      "data": {
+        "label": "Customer Success"
+      },
+      "position": {
+        "x": 1170.0,
+        "y": 500
+      }
+    }
+  ]
+  

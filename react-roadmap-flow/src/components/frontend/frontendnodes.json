@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1234-0",
+    "data": {
+      "label": "Front-end"
+    },
+    "position": {
+      "x": 1080.0,
+      "y": 0
+    }
+  },
+  {
+    "id": "1234-1",
+    "data": {
+      "label": "HTML"
+    },
+    "position": {
+      "x": 540.0,
+      "y": 180
+    }
+  },
+  {
+    "id": "1234-2",
+    "data": {
+      "label": "CSS"
+    },
+    "position": {
+      "x": 1080.0,
+      "y": 180
+    }
+  },
+  {
+    "id": "1234-3",
+    "data": {
+      "label": "JavaScript"
+    },
+    "position": {
+      "x": 1620.0,
+      "y": 300
+    }
+  },
+  {
+    "id": "1234-4",
+    "data": {
+      "label": "Responsive Design"
+    },
+    "position": {
+      "x": 360.0,
+      "y": 360
+    }
+  },
+  {
+    "id": "1234-5",
+    "data": {
+      "label": "CSS Frameworks"
+    },
+    "position": {
+      "x": 780.0,
+      "y": 360
+    }
+  },
+  {
+    "id": "1234-6",
+    "data": {
+      "label": "Version Control/Git"
+    },
+    "position": {
+      "x": 1200.0,
+      "y": 360
+    }
+  },
+  {
+    "id": "1234-7",
+    "data": {
+      "label": "Build Tools"
+    },
+    "position": {
+      "x": 1620.0,
+      "y": 400
+    }
+  },
+  {
+    "id": "1234-8",
+    "data": {
+      "label": "JavaScript Frameworks"
+    },
+    "position": {
+      "x": 200.0,
+      "y": 540
+    }
+  },
+  {
+    "id": "1234-9",
+    "data": {
+      "label": "Frontend Libraries"
+    },
+    "position": {
+      "x": 540.0,
+      "y": 540
+    }
+  },
+  {
+    "id": "1234-10",
+    "data": {
+      "label": "APIs"
+    },
+    "position": {
+      "x": 900.0,
+      "y": 540
+    }
+  },
+  {
+    "id": "1234-11",
+    "data": {
+      "label": "Web Performance"
+    },
+    "position": {
+      "x": 1260.0,
+      "y": 540
+    }
+  },
+  {
+    "id": "1234-12",
+    "data": {
+      "label": "Testing/Debugging"
+    },
+    "position": {
+      "x": 1620.0,
+      "y": 540
+    }
+  },
+  {
+    "id": "1234-13",
+    "data": {
+      "label": "Web Security"
+    },
+    "position": {
+      "x": 1980.0,
+      "y": 540
+    }
+  },
+  {
+    "id": "1234-14",
+    "data": {
+      "label": "Progressive Web Apps"
+    },
+    "position": {
+      "x": 2340.0,
+      "y": 540
+    }
+  }
+]

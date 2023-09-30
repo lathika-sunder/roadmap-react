@@ -1,0 +1,8 @@
+.main{
+    height: 50vh;
+    width: 100vh;
+}
+body{
+    height: fit-content;
+    width: max-content;
+}

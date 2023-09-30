@@ -1,0 +1,153 @@
+[
+    {
+      "id": "1234-0",
+      "data": {
+        "label": "Artificial Intelligence"
+      },
+      "position": {
+        "x": 1080.0,
+        "y": 0
+      }
+    },
+    {
+      "id": "1234-1",
+      "data": {
+        "label": "Machine Learning Basics"
+      },
+      "position": {
+        "x": 1000.0,
+        "y": 100
+      }
+    },
+    {
+      "id": "1234-2",
+      "data": {
+        "label": "Deep Learning"
+      },
+      "position": {
+        "x": 1160.0,
+        "y": 100
+      }
+    },
+    {
+      "id": "1234-3",
+      "data": {
+        "label": "Natural Language Processing"
+      },
+      "position": {
+        "x": 950.0,
+        "y": 200
+      }
+    },
+    {
+      "id": "1234-4",
+      "data": {
+        "label": "Computer Vision"
+      },
+      "position": {
+        "x": 1110.0,
+        "y": 200
+      }
+    },
+    {
+      "id": "1234-5",
+      "data": {
+        "label": "Reinforcement Learning"
+      },
+      "position": {
+        "x": 1270.0,
+        "y": 200
+      }
+    },
+    {
+      "id": "1234-6",
+      "data": {
+        "label": "Data Engineering"
+      },
+      "position": {
+        "x": 920.0,
+        "y": 300
+      }
+    },
+    {
+      "id": "1234-7",
+      "data": {
+        "label": "Big Data Technologies"
+      },
+      "position": {
+        "x": 1080.0,
+        "y": 300
+      }
+    },
+    {
+      "id": "1234-8",
+      "data": {
+        "label": "Data Analysis"
+      },
+      "position": {
+        "x": 1240.0,
+        "y": 300
+      }
+    },
+    {
+      "id": "1234-9",
+      "data": {
+        "label": "Data Visualization"
+      },
+      "position": {
+        "x": 1400.0,
+        "y": 300
+      }
+    },
+    {
+      "id": "1234-10",
+      "data": {
+        "label": "Software Engineering"
+      },
+      "position": {
+        "x": 950.0,
+        "y": 400
+      }
+    },
+    {
+      "id": "1234-11",
+      "data": {
+        "label": "Algorithm Design"
+      },
+      "position": {
+        "x": 1110.0,
+        "y": 400
+      }
+    },
+    {
+      "id": "1234-12",
+      "data": {
+        "label": "Cloud Computing"
+      },
+      "position": {
+        "x": 1270.0,
+        "y": 400
+      }
+    },
+    {
+      "id": "1234-13",
+      "data": {
+        "label": "Ethics in AI"
+      },
+      "position": {
+        "x": 1080.0,
+        "y": 500
+      }
+    },
+    {
+      "id": "1234-14",
+      "data": {
+        "label": "AI Applications"
+      },
+      "position": {
+        "x": 1240.0,
+        "y": 500
+      }
+    }
+  ]
+  

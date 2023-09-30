@@ -1,0 +1,12 @@
+.main{
+    /* height: 50vh; */
+    /* width: 100vh; */
+    background-color: #2945ff;
+    /* border-radius: 10%; */
+}
+body{
+    height: fit-content;
+    font-family: 'Montserrat', sans-serif;
+    width: max-content;
+    background-color: antiquewhite;
+}
